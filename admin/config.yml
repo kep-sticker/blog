@@ -1,13 +1,13 @@
 backend:
   name: github
-  repo: githubusername/yourrepositoryname # Path to your GitHub repository
+  repo: kep-sticker/blog # Path to your GitHub repository
   branch: master # Branch to update (master by default)
-  site_domain: yoursite.netlify.app #Your site on netlify
+  site_domain: yessss.netlify.app #Your site on netlify
   use_graphql: true
 
 publish_mode: editorial_workflow
 show_preview_links: true
-display_url: https://yoursite.netlify.app
+display_url: https://yessss.netlify.app
 logo_url: https://yoursite.netlify.app/uploads/logo.jpg
 
 # Do NOT edit below this line unless you want to change the home page
