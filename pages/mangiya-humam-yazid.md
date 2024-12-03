@@ -2,7 +2,7 @@
 title: Mangiya | HUMAM YAZID
 permalink: /humamyazid
 date: 2024-12-03T04:38:59.830Z
-show: false
+show: true
 layout: page
 ---
 <!--StartFragment-->
